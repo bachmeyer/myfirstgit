@@ -1,1 +1,2 @@
 Hello, I am Westley Bachmeyer.  This is me beginning to use Git.
+I am attempting to update my Git again.
